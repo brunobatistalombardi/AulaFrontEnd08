@@ -6,6 +6,8 @@ body {
     background-color: rgb(10, 10, 10);
     background-attachment: fixed;
     background-repeat: no-repeat;
+    background-position: top left, center;
+
 
 }
 
@@ -16,12 +18,12 @@ h1{
 
 
 .review-score {
+    
 
     text-shadow: cornsilk;
     background-color: rgb(199, 197, 192);
     color:rgba(17, 70, 105, 0.938)
 }
-
 h2 {
     text-shadow: cornsilk;
     color:rgba(18, 107, 180, 0.938)

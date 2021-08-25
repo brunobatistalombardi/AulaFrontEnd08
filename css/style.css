@@ -2,13 +2,11 @@
 
 body {
     font-family: "Roboto", sans-serif;
-    background: url("https://www.jedicenter.com.br/wp-content/uploads/2017/12/eu_sws-8_last-jedi_hero_v9_r_ddc759e5.jpeg");
+    background-image: url("https://www.jedicenter.com.br/wp-content/uploads/2017/12/eu_sws-8_last-jedi_hero_v9_r_ddc759e5.jpeg");
     background-color: rgb(10, 10, 10);
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-size: 100%;
-    background-position: top right;
-   
+
 }
 
 h1{ 
@@ -16,8 +14,9 @@ h1{
     color: rgb(250, 243, 243);
 }
 
+
 .review-score {
-    
+
     text-shadow: cornsilk;
     background-color: rgb(199, 197, 192);
     color:rgba(17, 70, 105, 0.938)
@@ -35,8 +34,3 @@ a {
     text-shadow: rgb(230, 228, 222);
     color:rgb(141, 91, 87)
 }
-//
-
-@import url();
-
-font-family: "Roboto", sans-serif;
